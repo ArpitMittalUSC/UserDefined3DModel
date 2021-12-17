@@ -1,0 +1,4 @@
+--patch-module
+org.model.openfx.userdefinedmodel=_
+--add-reads
+org.model.openfx.userdefinedmodel=ALL-UNNAMED

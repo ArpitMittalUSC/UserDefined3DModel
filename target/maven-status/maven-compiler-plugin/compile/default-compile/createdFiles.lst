@@ -1,0 +1,7 @@
+module-info.class
+org\model\openfx\userdefinedmodel\utility\Constants.class
+org\model\openfx\userdefinedmodel\utility\Utility.class
+org\model\openfx\userdefinedmodel\shapes\CreateShapes.class
+org\model\openfx\userdefinedmodel\shapes\ModifyTransformation.class
+org\model\openfx\userdefinedmodel\App.class
+org\model\openfx\userdefinedmodel\inputgenerator\InputFromFile.class
